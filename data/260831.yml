@@ -1,0 +1,62 @@
+about:
+  description: A terminal OpenTelemetry viewer inspired by otel-desktop-viewer
+  license: Apache-2.0
+  homepage: 
+  head: f390e5a
+  archived: false
+  latestVersion: v0.7.4
+  collectedAt: 2026-08-31T06:17:51Z
+timeline:
+  created: 2024-03-24
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-10
+popularity:
+  star: 1073
+  watcher: 4
+  fork: 31
+  release: 51
+  contributor: 10
+  pullRequest: 92
+  issue: 93
+language:
+  Go: 346828
+  Go Template: 3387
+  Makefile: 1330
+  Nix: 1328
+  Shell: 1188
+  Tape: 639
+  Dockerfile: 284
+totalLine: 354984
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 1
+    mergedPR: 6
+    openPR: 1
+    closedIssue: 0
+    openIssue: 0
+    commit: 6
+  last90d:
+    since: 2026-06-02
+    release: 1
+    mergedPR: 16
+    openPR: 1
+    closedIssue: 0
+    openIssue: 0
+    commit: 23
+  last180d:
+    since: 2026-03-04
+    release: 3
+    mergedPR: 38
+    openPR: 1
+    closedIssue: 1
+    openIssue: 2
+    commit: 44
+  last360d:
+    since: 2025-09-05
+    release: 12
+    mergedPR: 108
+    openPR: 1
+    closedIssue: 7
+    openIssue: 7
+    commit: 161
