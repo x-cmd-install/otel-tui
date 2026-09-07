@@ -5,13 +5,13 @@ about:
   head: 37eb0a1
   archived: false
   latestVersion: "v0.7.4"
-  collectedAt: 2026-09-07T06:04:06Z
+  collectedAt: 2026-09-07T18:35:03Z
 timeline:
   created: 2024-03-24
   lastCommit: 2026-09-01
   lastRelease: 2026-08-10
 popularity:
-  star: 1076
+  star: 1077
   watcher: 4
   fork: 32
   release: 51
@@ -85,7 +85,7 @@ total:
   commit: 726
 ---
 path: /home/runner/.x-repo/github.com/ymtdzzz/otel-tui
-collectedAt: 2026-09-07T06:04:08Z
+collectedAt: 2026-09-07T18:35:06Z
 loc:
   Go:
     code: 10364
@@ -146,7 +146,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:04:08+00:00
+  collectedAt: 2026-09-07T18:35:13+00:00
   platform:
     darwin/arm64:
       name:  otel-tui_Darwin_arm64.tar.gz
