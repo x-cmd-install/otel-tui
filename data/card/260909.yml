@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.7.4"
   latestRelease: "v0.7.4"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T06:24:47Z
+  collectedAt: 2026-09-09T20:31:17Z
 timeline:
   created: 2024-03-24
   lastCommit: 2026-09-01
@@ -89,7 +89,7 @@ total:
   commit: 726
 ---
 path: /home/runner/.x-repo/github.com/ymtdzzz/otel-tui
-collectedAt: 2026-09-09T06:24:49Z
+collectedAt: 2026-09-09T20:31:21Z
 loc:
   Go:
     code: 10364
