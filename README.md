@@ -32,27 +32,27 @@ Total: **10,734** lines of code across **90** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.7.5` (2026-09-12)
-- **Last commit**: 2026-09-12
+- **Last commit**: 2026-09-14
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 1,083 · **Forks**: 32 · **Open issues**: 93 · **Contributors**: 10
+- **Stars**: 1,082 · **Forks**: 32 · **Open issues**: 93 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 52 · **Merged PRs**: 296 · **Open PRs**: 2 · **Closed issues**: 67 · **Open issues**: 26 · **Commits**: 737
+- **Releases**: 52 · **Merged PRs**: 297 · **Open PRs**: 2 · **Closed issues**: 67 · **Open issues**: 26 · **Commits**: 739
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 7 | 0 | 0 | 0 | 9 |
-| last60d | 2026-07-15 | 2 | 14 | 0 | 0 | 0 | 16 |
-| 90d | 2026-06-15 | 2 | 19 | 0 | 0 | 0 | 21 |
-| last180d | 2026-03-17 | 4 | 42 | 0 | 2 | 0 | 49 |
-| 360d | 2025-09-18 | 13 | 111 | 0 | 8 | 6 | 166 |
-| last720d | 2024-09-23 | 33 | 241 | 1 | 28 | 16 | 578 |
+| 30d | 2026-08-15 | 1 | 8 | 0 | 0 | 0 | 10 |
+| last60d | 2026-07-16 | 2 | 15 | 0 | 0 | 0 | 17 |
+| 90d | 2026-06-16 | 2 | 20 | 0 | 0 | 0 | 22 |
+| last180d | 2026-03-18 | 4 | 43 | 0 | 2 | 0 | 50 |
+| 360d | 2025-09-19 | 13 | 112 | 0 | 8 | 6 | 167 |
+| last720d | 2024-09-24 | 33 | 242 | 1 | 28 | 16 | 580 |
 
 ## Release assets
 
@@ -66,14 +66,6 @@ Total: **10,734** lines of code across **90** files in the top 5 languages.
 | [otel-tui_Windows_arm64.zip](https://github.com/ymtdzzz/otel-tui/releases/download/v0.7.5/otel-tui_Windows_arm64.zip) | 29.4 MiB | `native/win/arm64` |
 | [otel-tui_Windows_x86_64.zip](https://github.com/ymtdzzz/otel-tui/releases/download/v0.7.5/otel-tui_Windows_x86_64.zip) | 33.6 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **4** distros on [repology.org](https://repology.org/project/otel-tui). **2** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.7.4` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for otel-tui lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `otel-tui` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -83,4 +75,4 @@ Install metadata for otel-tui lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:26:40Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:35:30Z._
