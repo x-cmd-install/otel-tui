@@ -4,7 +4,7 @@
 
 A terminal OpenTelemetry viewer inspired by otel-desktop-viewer
 
-[![x-cmd/install — otel-tui Code Quality Monitoring Repo Card](https://repo.x-cmd.io/otel-tui.svg?lang=zh)](https://x-cmd.com/install/otel-tui)
+[![x-cmd/install — otel-tui Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/otel-tui.svg?lang=zh)](https://x-cmd.com/install/otel-tui)
 
 ## 安装
 
@@ -47,12 +47,12 @@ x install otel-tui
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 12 | 0 | 0 | 0 | 13 |
-| last60d | 2026-07-24 | 2 | 19 | 0 | 0 | 0 | 19 |
-| 90d | 2026-06-24 | 2 | 23 | 0 | 0 | 0 | 25 |
-| last180d | 2026-03-26 | 4 | 45 | 0 | 2 | 0 | 54 |
-| 360d | 2025-09-27 | 13 | 116 | 0 | 9 | 5 | 169 |
-| last720d | 2024-10-02 | 33 | 244 | 1 | 29 | 15 | 583 |
+| 30d | 2026-08-24 | 1 | 11 | 0 | 0 | 0 | 13 |
+| last60d | 2026-07-25 | 2 | 19 | 0 | 0 | 0 | 19 |
+| 90d | 2026-06-25 | 2 | 23 | 0 | 0 | 0 | 25 |
+| last180d | 2026-03-27 | 4 | 45 | 0 | 2 | 0 | 54 |
+| 360d | 2025-09-28 | 13 | 116 | 0 | 9 | 5 | 169 |
+| last720d | 2024-10-03 | 33 | 244 | 1 | 29 | 15 | 583 |
 
 ## Release 资产
 
@@ -75,4 +75,4 @@ otel-tui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:31:49Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:52:16Z._
