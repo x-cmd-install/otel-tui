@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 32381079,
       "digest": "sha256:f65340825ba044515af6cba18c1771c2f8400b5ba4912d7cfea76f0bd04dce19",
-      "download_count": 139,
+      "download_count": 146,
       "created_at": "2026-09-12T11:00:15Z",
       "updated_at": "2026-09-12T11:00:18Z",
       "browser_download_url": "https://github.com/ymtdzzz/otel-tui/releases/download/v0.7.5/otel-tui_Darwin_arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 35208549,
       "digest": "sha256:4e55860513ec74dad171240c3f73bca36d2b8a95a22fb56d56895dbdd8f9375e",
-      "download_count": 11,
+      "download_count": 14,
       "created_at": "2026-09-12T11:00:15Z",
       "updated_at": "2026-09-12T11:00:18Z",
       "browser_download_url": "https://github.com/ymtdzzz/otel-tui/releases/download/v0.7.5/otel-tui_Darwin_x86_64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 30618258,
       "digest": "sha256:b627a7bbf5d6be7aed1fdd36e6cee935edd590b5be4cb9b124bd0450dd75bb63",
-      "download_count": 10,
+      "download_count": 13,
       "created_at": "2026-09-12T11:00:18Z",
       "updated_at": "2026-09-12T11:00:20Z",
       "browser_download_url": "https://github.com/ymtdzzz/otel-tui/releases/download/v0.7.5/otel-tui_Linux_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 34306168,
       "digest": "sha256:dd10bfa12b6713a2d51d7a094644ff61a2467856fc93d3acecfe741a124ca896",
-      "download_count": 58,
+      "download_count": 63,
       "created_at": "2026-09-12T11:00:18Z",
       "updated_at": "2026-09-12T11:00:20Z",
       "browser_download_url": "https://github.com/ymtdzzz/otel-tui/releases/download/v0.7.5/otel-tui_Linux_x86_64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 30857424,
       "digest": "sha256:dcb00944c165ac620e4290c85712456dac80efb4f6ab5dec858b0615dc59a9de",
-      "download_count": 10,
+      "download_count": 13,
       "created_at": "2026-09-12T11:00:20Z",
       "updated_at": "2026-09-12T11:00:22Z",
       "browser_download_url": "https://github.com/ymtdzzz/otel-tui/releases/download/v0.7.5/otel-tui_Windows_arm64.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 35197502,
       "digest": "sha256:5233a0f8b9b40420cc13d8695bdea8dcfc0854e2c24e78b0743d57da7667e56a",
-      "download_count": 14,
+      "download_count": 18,
       "created_at": "2026-09-12T11:00:20Z",
       "updated_at": "2026-09-12T11:00:22Z",
       "browser_download_url": "https://github.com/ymtdzzz/otel-tui/releases/download/v0.7.5/otel-tui_Windows_x86_64.zip"
