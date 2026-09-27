@@ -37,22 +37,22 @@ Total: **10,734** lines of code across **90** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,091 · **Forks**: 32 · **Open issues**: 93 · **Contributors**: 10
+- **Stars**: 1,092 · **Forks**: 32 · **Open issues**: 93 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 52 · **Merged PRs**: 301 · **Open PRs**: 2 · **Closed issues**: 68 · **Open issues**: 25 · **Commits**: 747
+- **Releases**: 52 · **Merged PRs**: 301 · **Open PRs**: 1 · **Closed issues**: 71 · **Open issues**: 22 · **Commits**: 747
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 1 | 11 | 0 | 0 | 0 | 13 |
-| last60d | 2026-07-28 | 2 | 17 | 0 | 0 | 0 | 19 |
-| 90d | 2026-06-28 | 2 | 23 | 0 | 0 | 0 | 25 |
-| last180d | 2026-03-30 | 4 | 45 | 0 | 2 | 0 | 54 |
-| 360d | 2025-10-01 | 13 | 114 | 0 | 9 | 5 | 169 |
-| last720d | 2024-10-06 | 33 | 244 | 1 | 29 | 15 | 583 |
+| 30d | 2026-08-28 | 1 | 11 | 0 | 0 | 0 | 11 |
+| last60d | 2026-07-29 | 2 | 17 | 0 | 0 | 0 | 18 |
+| 90d | 2026-06-29 | 2 | 21 | 0 | 0 | 0 | 23 |
+| last180d | 2026-03-31 | 4 | 45 | 0 | 2 | 0 | 52 |
+| 360d | 2025-10-02 | 13 | 114 | 0 | 10 | 4 | 165 |
+| last720d | 2024-10-07 | 33 | 242 | 1 | 30 | 14 | 583 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for otel-tui lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T06:12:54Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T06:37:22Z._
