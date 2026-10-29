@@ -47,12 +47,12 @@ Total: **10,734** lines of code across **90** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 3 | 0 | 0 | 0 | 3 |
-| last60d | 2026-08-29 | 1 | 14 | 0 | 0 | 0 | 14 |
-| 90d | 2026-07-30 | 2 | 20 | 0 | 0 | 0 | 22 |
-| last180d | 2026-05-01 | 4 | 42 | 0 | 2 | 0 | 46 |
-| 360d | 2025-11-02 | 11 | 104 | 0 | 7 | 4 | 147 |
-| last720d | 2024-11-07 | 32 | 239 | 1 | 30 | 14 | 574 |
+| 30d | 2026-09-29 | 0 | 3 | 0 | 0 | 0 | 3 |
+| last60d | 2026-08-30 | 1 | 14 | 0 | 0 | 0 | 14 |
+| 90d | 2026-07-31 | 2 | 20 | 0 | 0 | 0 | 22 |
+| last180d | 2026-05-02 | 4 | 42 | 0 | 2 | 0 | 46 |
+| 360d | 2025-11-03 | 11 | 101 | 0 | 7 | 2 | 147 |
+| last720d | 2024-11-08 | 32 | 239 | 1 | 30 | 14 | 574 |
 
 ## Release assets
 
@@ -66,14 +66,6 @@ Total: **10,734** lines of code across **90** files in the top 5 languages.
 | [otel-tui_Windows_arm64.zip](https://github.com/ymtdzzz/otel-tui/releases/download/v0.7.5/otel-tui_Windows_arm64.zip) | 29.4 MiB | `native/win/arm64` |
 | [otel-tui_Windows_x86_64.zip](https://github.com/ymtdzzz/otel-tui/releases/download/v0.7.5/otel-tui_Windows_x86_64.zip) | 33.6 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **4** distros on [repology.org](https://repology.org/project/otel-tui). **3** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.7.5` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for otel-tui lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `otel-tui` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -83,4 +75,4 @@ Install metadata for otel-tui lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T07:09:38Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T07:09:20Z._
