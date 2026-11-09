@@ -22,6 +22,20 @@
     - cclin@aur
   licenses:
     - Apache-2.0
+- repo: homebrew
+  srcname: otel-tui
+  visiblename: otel-tui
+  version: 0.7.5
+  origversion: null
+  status: newest
+  summary: Terminal OpenTelemetry viewer
+- repo: homebrew
+  srcname: otel-tui
+  visiblename: otel-tui
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Terminal OpenTelemetry viewer
 - repo: nix_stable_26_05
   srcname: otel-tui
   visiblename: otel-tui
