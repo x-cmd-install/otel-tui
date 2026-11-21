@@ -14,11 +14,11 @@ x install otel-tui
 
 ## Code insight
 
-Total: **10,734** lines of code across **90** files in the top 5 languages.
+Total: **10,877** lines of code across **90** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 10,363 | 705 | 1,686 | 83 |
+| Go | 10,506 | 686 | 1,719 | 83 |
 | Pan | 130 | 0 | 0 | 1 |
 | Json | 97 | 0 | 0 | 1 |
 | Nix | 66 | 0 | 2 | 2 |
@@ -31,40 +31,27 @@ Total: **10,734** lines of code across **90** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.7.5` (2026-09-12)
-- **Last commit**: 2026-11-15
-- **Assets in release**: 7
+- **Latest**: `v0.7.6` (2026-11-21)
+- **Last commit**: 2026-11-21
 
 ## Popularity
 
-- **Stars**: 1,139 · **Forks**: 35 · **Open issues**: 96 · **Contributors**: 10
+- **Stars**: 1,140 · **Forks**: 36 · **Open issues**: 98 · **Contributors**: 14
 
 ## Totals (cumulative)
 
-- **Releases**: 52 · **Merged PRs**: 306 · **Open PRs**: 4 · **Closed issues**: 71 · **Open issues**: 25 · **Commits**: 757
+- **Releases**: 53 · **Merged PRs**: 313 · **Open PRs**: 3 · **Closed issues**: 74 · **Open issues**: 24 · **Commits**: 772
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 2 | 3 | 0 | 3 | 2 |
-| last60d | 2026-09-21 | 0 | 5 | 3 | 0 | 3 | 5 |
-| 90d | 2026-08-22 | 1 | 17 | 3 | 0 | 3 | 19 |
-| last180d | 2026-05-24 | 2 | 35 | 3 | 1 | 3 | 41 |
-| 360d | 2025-11-25 | 9 | 91 | 3 | 4 | 5 | 110 |
-| last720d | 2024-11-30 | 31 | 236 | 4 | 30 | 16 | 567 |
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [otel-tui_0.7.5_checksums.txt](https://github.com/ymtdzzz/otel-tui/releases/download/v0.7.5/otel-tui_0.7.5_checksums.txt) | 567 B | `other` |
-| [otel-tui_Darwin_arm64.tar.gz](https://github.com/ymtdzzz/otel-tui/releases/download/v0.7.5/otel-tui_Darwin_arm64.tar.gz) | 30.9 MiB | `native/darwin/arm64` |
-| [otel-tui_Darwin_x86_64.tar.gz](https://github.com/ymtdzzz/otel-tui/releases/download/v0.7.5/otel-tui_Darwin_x86_64.tar.gz) | 33.6 MiB | `native/darwin/x64` |
-| [otel-tui_Linux_arm64.tar.gz](https://github.com/ymtdzzz/otel-tui/releases/download/v0.7.5/otel-tui_Linux_arm64.tar.gz) | 29.2 MiB | `native/linux/arm64` |
-| [otel-tui_Linux_x86_64.tar.gz](https://github.com/ymtdzzz/otel-tui/releases/download/v0.7.5/otel-tui_Linux_x86_64.tar.gz) | 32.7 MiB | `native/linux/x64` |
-| [otel-tui_Windows_arm64.zip](https://github.com/ymtdzzz/otel-tui/releases/download/v0.7.5/otel-tui_Windows_arm64.zip) | 29.4 MiB | `native/win/arm64` |
-| [otel-tui_Windows_x86_64.zip](https://github.com/ymtdzzz/otel-tui/releases/download/v0.7.5/otel-tui_Windows_x86_64.zip) | 33.6 MiB | `native/win/x64` |
+| 30d | 2026-10-22 | 1 | 9 | 2 | 3 | 2 | 10 |
+| last60d | 2026-09-22 | 1 | 12 | 2 | 3 | 2 | 13 |
+| 90d | 2026-08-23 | 2 | 24 | 2 | 3 | 2 | 27 |
+| last180d | 2026-05-25 | 3 | 40 | 2 | 4 | 2 | 49 |
+| 360d | 2025-11-26 | 10 | 98 | 2 | 7 | 4 | 118 |
+| last720d | 2024-12-01 | 32 | 243 | 3 | 33 | 15 | 582 |
 
 ## Distribution status
 
@@ -84,4 +71,4 @@ Install metadata for otel-tui lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T10:25:05Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T09:07:46Z._
