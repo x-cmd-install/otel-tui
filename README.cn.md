@@ -14,11 +14,11 @@ x install otel-tui
 
 ## 代码洞察
 
-合计: **10,877** 行代码（覆盖前 5 种语言、共 **90** 个文件）。
+合计: **10,848** 行代码（覆盖前 5 种语言、共 **90** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 10,506 | 686 | 1,719 | 83 |
+| Go | 10,477 | 685 | 1,720 | 83 |
 | Pan | 130 | 0 | 0 | 1 |
 | Json | 97 | 0 | 0 | 1 |
 | Nix | 66 | 0 | 2 | 2 |
@@ -32,7 +32,8 @@ x install otel-tui
 ## 发布
 
 - **最新版本**: `v0.7.6` (2026-11-21)
-- **最近提交**: 2026-11-21
+- **最近提交**: 2026-11-22
+- **Release 含资产**: 7 个
 
 ## 流行度
 
@@ -40,27 +41,39 @@ x install otel-tui
 
 ## 累计统计
 
-- **发布数**: 53 · **已合并 PR**: 313 · **开放 PR**: 3 · **已关闭 issue**: 74 · **开放 issue**: 24 · **提交数**: 772
+- **发布数**: 53 · **已合并 PR**: 316 · **开放 PR**: 3 · **已关闭 issue**: 75 · **开放 issue**: 23 · **提交数**: 779
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 1 | 9 | 2 | 3 | 2 | 10 |
-| last60d | 2026-09-22 | 1 | 12 | 2 | 3 | 2 | 13 |
-| 90d | 2026-08-23 | 2 | 24 | 2 | 3 | 2 | 27 |
-| last180d | 2026-05-25 | 3 | 40 | 2 | 4 | 2 | 49 |
-| 360d | 2025-11-26 | 10 | 98 | 2 | 7 | 4 | 118 |
-| last720d | 2024-12-01 | 32 | 243 | 3 | 33 | 15 | 582 |
+| 30d | 2026-10-23 | 1 | 12 | 2 | 4 | 1 | 14 |
+| last60d | 2026-09-23 | 1 | 15 | 2 | 4 | 1 | 17 |
+| 90d | 2026-08-24 | 2 | 26 | 2 | 4 | 1 | 30 |
+| last180d | 2026-05-26 | 3 | 43 | 2 | 5 | 1 | 52 |
+| 360d | 2025-11-27 | 10 | 101 | 2 | 8 | 3 | 122 |
+| last720d | 2024-12-02 | 32 | 246 | 3 | 34 | 14 | 589 |
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [otel-tui_0.7.6_checksums.txt](https://github.com/ymtdzzz/otel-tui/releases/download/v0.7.6/otel-tui_0.7.6_checksums.txt) | 567 B | `other` |
+| [otel-tui_Darwin_arm64.tar.gz](https://github.com/ymtdzzz/otel-tui/releases/download/v0.7.6/otel-tui_Darwin_arm64.tar.gz) | 32.4 MiB | `native/darwin/arm64` |
+| [otel-tui_Darwin_x86_64.tar.gz](https://github.com/ymtdzzz/otel-tui/releases/download/v0.7.6/otel-tui_Darwin_x86_64.tar.gz) | 35.2 MiB | `native/darwin/x64` |
+| [otel-tui_Linux_arm64.tar.gz](https://github.com/ymtdzzz/otel-tui/releases/download/v0.7.6/otel-tui_Linux_arm64.tar.gz) | 30.6 MiB | `native/linux/arm64` |
+| [otel-tui_Linux_x86_64.tar.gz](https://github.com/ymtdzzz/otel-tui/releases/download/v0.7.6/otel-tui_Linux_x86_64.tar.gz) | 34.3 MiB | `native/linux/x64` |
+| [otel-tui_Windows_arm64.zip](https://github.com/ymtdzzz/otel-tui/releases/download/v0.7.6/otel-tui_Windows_arm64.zip) | 30.9 MiB | `native/win/arm64` |
+| [otel-tui_Windows_x86_64.zip](https://github.com/ymtdzzz/otel-tui/releases/download/v0.7.6/otel-tui_Windows_x86_64.zip) | 35.2 MiB | `native/win/x64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/otel-tui) 上共有 **6** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/otel-tui) 上共有 **6** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**4** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `0.7.5` | ✅ latest |
-| Nix unstable | `0.7.5` | ✅ latest |
+| Homebrew | `0.7.6` | ✅ latest |
+| Nix unstable | `0.7.5` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -71,4 +84,4 @@ otel-tui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261121.yml` · 2026-11-21T09:07:47Z._
+_数据快照: `data/card/261122.yml` · 2026-11-22T08:35:40Z._
