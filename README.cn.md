@@ -47,12 +47,12 @@ x install otel-tui
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 12 | 2 | 4 | 1 | 14 |
-| last60d | 2026-09-25 | 1 | 15 | 2 | 4 | 1 | 17 |
-| 90d | 2026-08-26 | 2 | 26 | 2 | 4 | 1 | 30 |
-| last180d | 2026-05-28 | 3 | 43 | 2 | 4 | 1 | 52 |
-| 360d | 2025-11-29 | 10 | 101 | 2 | 8 | 3 | 122 |
-| last720d | 2024-12-04 | 32 | 246 | 3 | 34 | 14 | 589 |
+| 30d | 2026-10-26 | 1 | 12 | 2 | 4 | 1 | 14 |
+| last60d | 2026-09-26 | 1 | 15 | 2 | 4 | 1 | 17 |
+| 90d | 2026-08-27 | 2 | 26 | 2 | 4 | 1 | 30 |
+| last180d | 2026-05-29 | 3 | 43 | 2 | 4 | 1 | 52 |
+| 360d | 2025-11-30 | 10 | 101 | 2 | 8 | 3 | 122 |
+| last720d | 2024-12-05 | 32 | 246 | 3 | 34 | 14 | 589 |
 
 ## Release 资产
 
@@ -66,15 +66,6 @@ x install otel-tui
 | [otel-tui_Windows_arm64.zip](https://github.com/ymtdzzz/otel-tui/releases/download/v0.7.6/otel-tui_Windows_arm64.zip) | 30.9 MiB | `native/win/arm64` |
 | [otel-tui_Windows_x86_64.zip](https://github.com/ymtdzzz/otel-tui/releases/download/v0.7.6/otel-tui_Windows_x86_64.zip) | 35.2 MiB | `native/win/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/otel-tui) 上共有 **6** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**4** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `0.7.6` | ✅ latest |
-| Nix unstable | `0.7.5` | ⚠️ outdated |
-
 ## 改进这些数据
 
 otel-tui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `otel-tui` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -84,4 +75,4 @@ otel-tui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T10:31:51Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T09:54:40Z._
